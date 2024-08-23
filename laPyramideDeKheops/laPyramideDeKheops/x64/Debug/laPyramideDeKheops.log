@@ -1,0 +1,10 @@
+﻿  laPyramideDeKheops.cpp
+C:\Users\202130280\OneDrive\Images\Documents\c++\intermediaire\TPSynthese-Gabirel-Dylan\laPyramideDeKheops\laPyramideDeKheops\laPyramideDeKheops.cpp(11,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LectureHistoire.cpp
+  mesFonctions.cpp
+  MonJeu.cpp
+  monMenu.cpp
+  NoeudListe.cpp
+  Tapping.cpp
+  Generating Code...
+  laPyramideDeKheops.vcxproj -> C:\Users\202130280\OneDrive\Images\Documents\c++\intermediaire\TPSynthese-Gabirel-Dylan\laPyramideDeKheops\x64\Debug\laPyramideDeKheops.exe
